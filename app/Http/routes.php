@@ -41,6 +41,6 @@ Route::get('faq', ['as' => 'faq', function() {
   return View::make('faq');
 }]);
 
-Route::get('jobs', ['as' => 'jobs', function() {
-  return View::make('jobs');
+Route::get('squad', ['as' => 'squad', function() {
+  return View::make('squad');
 }]);

@@ -56,7 +56,7 @@
                 <a href="{{ URL::route('faq') }}">FAQ</a>
             </li>
             <li>
-                <a href="{{ URL::route('jobs') }}">JOBS</a>
+                <a href="{{ URL::route('squad') }}">SQUAD</a>
             </li>
             <li>
                 <a href="{{ URL::route('privacy-policy') }}">PRIVACY POLICY</a>
